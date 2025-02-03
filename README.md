@@ -3,6 +3,7 @@
 <br>
 
 Frontend Developer from Russia 🧊
+
 - :office: I'm currently working at **Системпро**
 - :fire: I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
 
@@ -11,6 +12,7 @@ Frontend Developer from Russia 🧊
 [//]: # (## 📦 My Packages)
 
 [//]: # ()
+
 [//]: # (in Progress)
 
 ## 🔬 My Projects
@@ -23,216 +25,228 @@ Frontend Developer from Russia 🧊
 
 > General
 
-<ul style='display: grid; grid-template-columns: repeat(auto-fill, minmax(4.5rem, 1fr)); padding: 0;'>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
         </a>
-        Javascript
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>Javascript
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
         </a>
-        Typescript
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>Typescript
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
         </a>
-        HTML
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>HTML
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
         </a>
-        CSS
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>CSS
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
         </a>
-        Figma
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>Figma
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
         </a>
-        Git
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>Git
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
         </a>
-        Yarn
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>Yarn
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://pnpm.io/img/pnpm-no-name-with-frame.svg" width="36" height="36" alt="pnpm" />
         </a>
-        Pnpm
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>Pnpm
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
         </a>
-        Npm
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>Npm
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
         </a>
-        GitHub
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>GitHub
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
         </a>
-        Docker
-    </li>
-</ul>
+        <br/>Docker
+    </td>
+</tr>
+</table>
 
 > Testing
 
-<ul style='display: grid; grid-template-columns: repeat(auto-fill, minmax(4.5rem, 1fr)); padding: 0;'>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
         </a>
-        Jest
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>Jest
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
         </a>
-        TL
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>TL
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
         </a>
-        Storybook
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>Storybook
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="playwright" />
         </a>
-        Playwright
-    </li>
-</ul>
+        <br/>Playwright
+    </td>
+</tr>
+</table>
 
 > Code quality
 
 
-<ul style='display: grid; grid-template-columns: repeat(auto-fill, minmax(4.5rem, 1fr)); padding: 0;'>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
         </a>
-        ESLint
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>ESLint
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
         </a>
-        Prettier
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>Prettier
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Prettier" />
         </a>
-        Stylelint
-    </li>
-</ul>
+        <br/>Stylelint
+    </td>
+</tr>
+</table>
 
 > Frontend
 
-<ul style='display: grid; grid-template-columns: repeat(auto-fill, minmax(4.5rem, 1fr)); padding: 0;'>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
         </a>
-        React
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>React
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
         </a>
-        Next JS
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>JS
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
         </a>
-        Redux
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>Redux
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="36" height="36" alt="Redux" />
         </a>
-        Zustand
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>Zustand
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://avatars.githubusercontent.com/u/79146003?s=48&v=4" width="36" height="36" alt="Redux" />
         </a>
-        MantineUI
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>MantineUI
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
         </a>
-        Tailwind
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>Tailwind
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
         </a>
-        Webpack
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>Webpack
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
         </a>
-        Vite
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>Vite
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
         </a>
-        Sass
-    </li>
-</ul>
+        <br/>Sass
+    </td>
+</tr>
+</table>
 
 > Backend
 
-<ul style='display: grid; grid-template-columns: repeat(auto-fill, minmax(4.5rem, 1fr)); padding: 0;'>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="36" height="36" alt="Rust" />
         </a>
-        Rust
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>Rust
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
         </a>
-        Prisma
-    </li>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+        <br/>Prisma
+    </td>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://trpc.io/img/logo.svg" width="36" height="36" alt="tRPC" />
         </a>
-        tRPC
-    </li>
-</ul>
+        <br/>tRPC
+    </td>
+  </tr>
+</table>
 
 > Other
 
-<ul style='display: grid; grid-template-columns: repeat(auto-fill, minmax(4.5rem, 1fr)); padding: 0;'>
-    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
         <a href='#stack'>
-            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 256 289" preserveAspectRatio="xMidYMid">
+	        <svg xmlns='http://www.w3.org/2000/svg' width='36' height='36' viewBox='0 0 256 289'
+	             preserveAspectRatio='xMidYMid'>
                 <title>tauri</title>
                 <g>
                     <path d="M178.496537,104.930808 C178.496537,120.084789 166.211808,132.369518 151.057827,132.369518 C135.903846,132.369518 123.619117,120.084789 123.619117,104.930808 C123.619117,89.7768271 135.903846,77.4920982 151.057827,77.4920982 C166.211808,77.4920982 178.496537,89.7768271 178.496537,104.930808 L178.496537,104.930808 Z" fill="#FFC131"/>
@@ -242,10 +256,11 @@ Frontend Developer from Russia 🧊
                 </g>
             </svg>
         </a>
-        Tauri
-    </li>
-</ul>
-
+        <br>Tauri
+    </td>
+  </tr> 
+</table>
+ 
 ## ☄️ Contact
 
 - :bird: &nbsp;**[VK](https://vk.com/gigorbyte)**
