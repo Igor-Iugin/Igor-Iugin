@@ -167,7 +167,7 @@ Frontend Developer from Russia 🧊
         <a href='#stack'>
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
         </a>
-        <br/>JS
+        <br/>Next JS
     </td>
     <td align="center" width="110" height="90">
         <a href='#stack'>
