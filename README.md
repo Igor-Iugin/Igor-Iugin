@@ -23,84 +23,68 @@ Frontend Developer from Russia 🧊
 
 > General
 
-<style>
-.list {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(4.5rem, 1fr));
-    padding: 0;
-}
-
-.list-item {
-    display: grid;
-    justify-items: center;
-    grid-template-rows: minmax(2.25rem, 1fr) auto;
-    border: 1px solid var(--borderColor-default, var(--color-border-default));
-    padding: .4rem .75rem
-}
-</style>
-
-<ul class='list'>
-    <li class='list-item'>
+<ul style='display: grid; grid-template-columns: repeat(auto-fill, minmax(4.5rem, 1fr)); padding: 0;'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
         </a>
         Javascript
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
         </a>
         Typescript
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
         </a>
         HTML
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
         </a>
         CSS
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
         </a>
         Figma
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
         </a>
         Git
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
         </a>
         Yarn
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://pnpm.io/img/pnpm-no-name-with-frame.svg" width="36" height="36" alt="pnpm" />
         </a>
         Pnpm
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
         </a>
         Npm
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
         </a>
         GitHub
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
         </a>
@@ -110,26 +94,26 @@ Frontend Developer from Russia 🧊
 
 > Testing
 
-<ul class='list'>
-    <li class='list-item'>
+<ul style='display: grid; grid-template-columns: repeat(auto-fill, minmax(4.5rem, 1fr)); padding: 0;'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
         </a>
         Jest
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
         </a>
         TL
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
         </a>
         Storybook
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="playwright" />
         </a>
@@ -140,20 +124,20 @@ Frontend Developer from Russia 🧊
 > Code quality
 
 
-<ul class='list'>
-    <li class='list-item'>
+<ul style='display: grid; grid-template-columns: repeat(auto-fill, minmax(4.5rem, 1fr)); padding: 0;'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
         </a>
         ESLint
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
         </a>
         Prettier
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Prettier" />
         </a>
@@ -163,56 +147,56 @@ Frontend Developer from Russia 🧊
 
 > Frontend
 
-<ul class='list'>
-    <li class='list-item'>
+<ul style='display: grid; grid-template-columns: repeat(auto-fill, minmax(4.5rem, 1fr)); padding: 0;'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
         </a>
         React
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
         </a>
         Next JS
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
         </a>
         Redux
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="36" height="36" alt="Redux" />
         </a>
         Zustand
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://avatars.githubusercontent.com/u/79146003?s=48&v=4" width="36" height="36" alt="Redux" />
         </a>
         MantineUI
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
         </a>
         Tailwind
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
         </a>
         Webpack
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
         </a>
         Vite
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
         </a>
@@ -222,20 +206,20 @@ Frontend Developer from Russia 🧊
 
 > Backend
 
-<ul class='list'>
-    <li class='list-item'>
+<ul style='display: grid; grid-template-columns: repeat(auto-fill, minmax(4.5rem, 1fr)); padding: 0;'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="36" height="36" alt="Rust" />
         </a>
         Rust
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
         </a>
         Prisma
     </li>
-    <li class='list-item'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
         <img src="https://trpc.io/img/logo.svg" width="36" height="36" alt="tRPC" />
         </a>
@@ -245,8 +229,8 @@ Frontend Developer from Russia 🧊
 
 > Other
 
-<ul class='list'>
-    <li class='list-item'>
+<ul style='display: grid; grid-template-columns: repeat(auto-fill, minmax(4.5rem, 1fr)); padding: 0;'>
+    <li style='display: grid; justify-items: center;grid-template-rows: minmax(2.25rem, 1fr) auto;border: 1px solid var(--borderColor-default, var(--color-border-default));padding: .4rem .75rem;'>
         <a href='#stack'>
             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 256 289" preserveAspectRatio="xMidYMid">
                 <title>tauri</title>
