@@ -219,8 +219,6 @@ Frontend Developer from Russia 🧊
         </a>
         <br/>Vue
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="36" height="36" alt="Nuxt" />
