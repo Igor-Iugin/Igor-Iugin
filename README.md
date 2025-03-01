@@ -215,7 +215,7 @@ Frontend Developer from Russia 🧊
   <tr>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="Vue" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue" />
         </a>
         <br/>Vue
     </td>
@@ -223,7 +223,7 @@ Frontend Developer from Russia 🧊
   <tr>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="Nuxt" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="36" height="36" alt="Nuxt" />
         </a>
         <br/>Nuxt
     </td>
