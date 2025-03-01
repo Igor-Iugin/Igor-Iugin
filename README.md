@@ -207,7 +207,7 @@ Frontend Developer from Russia 🧊
     </td>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" />
         </a>
         <br/>Sass
     </td>
@@ -224,6 +224,20 @@ Frontend Developer from Russia 🧊
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="36" height="36" alt="Nuxt" />
         </a>
         <br/>Nuxt
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+        <a href='#stack'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="36" height="36" alt="Svelte" />
+        </a>
+        <br/>Svelte
+    </td>
+    <td align="center" width="110" height="90">
+        <a href='#stack'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="36" height="36" alt="SvelteKit" />
+        </a>
+        <br/>SvelteKit
     </td>
   </tr>
 </table>
