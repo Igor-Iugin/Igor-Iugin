@@ -212,6 +212,22 @@ Frontend Developer from Russia 🧊
         <br/>Sass
     </td>
 </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+        <a href='#stack'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="Vue" />
+        </a>
+        <br/>Vue
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+        <a href='#stack'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="Nuxt" />
+        </a>
+        <br/>Nuxt
+    </td>
+  </tr>
 </table>
 
 > Backend
