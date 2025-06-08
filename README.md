@@ -114,12 +114,6 @@ Frontend Developer from Russia 🧊
     </td>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
-        </a>
-        <br/>Storybook
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
         <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="playwright" />
         </a>
         <br/>Playwright
@@ -137,12 +131,6 @@ Frontend Developer from Russia 🧊
         <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
         </a>
         <br/>ESLint
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
-        </a>
-        <br/>Prettier
     </td>
     <td align="center" width="110" height="90">
         <a href='#stack'>
