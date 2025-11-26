@@ -4,7 +4,7 @@
 
 Frontend Developer from Russia 🧊
 
-- :office: I'm currently working at **Системпро**
+- :office: I'm currently working at **RTS**
 - :fire: I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
 
 <br>
