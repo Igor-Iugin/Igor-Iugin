@@ -242,7 +242,7 @@ Frontend Developer from Russia 🧊
     </td>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="36" height="36" alt="Prisma" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" width="36" height="36" alt="Prisma" />
         </a>
         <br/>Prisma
     </td>
@@ -261,7 +261,7 @@ Frontend Developer from Russia 🧊
   <tr>
     <td align="center" height="90">
         <a href='#stack'>
-        <img src="https://tauri.app/_astro/logo.DCjQDXhk.svg" height="36" alt="Tauri" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tauri/tauri-original.svg" height="36" alt="Tauri" />
         </a>
         <br>Tauri
     </td>
