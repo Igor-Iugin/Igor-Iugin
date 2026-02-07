@@ -18,7 +18,7 @@ Frontend Developer from Russia 🧊
 ## 🔬 My Projects
 
 ### [Nuance UI](https://github.com/Igor-Iugin/nuance-ui)
-A modern UI kit module for Nuxt 3 with thoughtfully designed components and subtle interaction details.
+A modern and self-made UI kit that combines the best of Vue 3
 
 <br>
 
