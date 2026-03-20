@@ -42,13 +42,13 @@ A modern and self-made UI kit that combines the best of Vue 3
     </td>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
         </a>
         <br/>HTML
     </td>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
         </a>
         <br/>CSS
     </td>
@@ -78,19 +78,19 @@ A modern and self-made UI kit that combines the best of Vue 3
     </td>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="36" height="36" alt="npm" />
         </a>
         <br/>Npm
     </td>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" height="36" alt="github" />
         </a>
         <br/>GitHub
     </td>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
         </a>
         <br/>Docker
     </td>
@@ -103,7 +103,7 @@ A modern and self-made UI kit that combines the best of Vue 3
   <tr>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="36" height="36" alt="Jest" />
         </a>
         <br/>Jest
     </td>
@@ -129,13 +129,13 @@ A modern and self-made UI kit that combines the best of Vue 3
   <tr>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="36" height="36" alt="eslint" />
         </a>
         <br/>ESLint
     </td>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Prettier" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stylelint/stylelint-original.svg" width="36" height="36" alt="Stylelint" />
         </a>
         <br/>Stylelint
     </td>
@@ -148,7 +148,7 @@ A modern and self-made UI kit that combines the best of Vue 3
   <tr>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36" alt="React" />
         </a>
         <br/>React
     </td>
@@ -178,13 +178,13 @@ A modern and self-made UI kit that combines the best of Vue 3
     </td>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
         </a>
         <br/>Tailwind
     </td>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" width="36" height="36" alt="Webpack" />
         </a>
         <br/>Webpack
     </td>
@@ -243,7 +243,7 @@ A modern and self-made UI kit that combines the best of Vue 3
     </td>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" width="36" height="36" alt="Prisma" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="36" height="36" alt="Prisma" />
         </a>
         <br/>Prisma
     </td>
@@ -262,7 +262,7 @@ A modern and self-made UI kit that combines the best of Vue 3
   <tr>
     <td align="center" height="90">
         <a href='#stack'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tauri/tauri-original.svg" height="36" alt="Tauri" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" height="36" alt="Tauri" />
         </a>
         <br>Tauri
     </td>
