@@ -18,7 +18,7 @@ Frontend Developer from Russia 🧊
 ## 🔬 My Projects
 
 ### [Nuance UI](https://github.com/Igor-Iugin/nuance-ui)
-A modern and self-made UI kit that combines the best of Vue 3
+A modern and self-made UI kit that combines the best of Vue 3 and React community
 
 <br>
 
