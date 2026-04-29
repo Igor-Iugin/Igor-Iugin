@@ -135,7 +135,7 @@ A modern and self-made UI kit that combines the best of Vue 3 and React communit
     </td>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stylelint/stylelint-original.svg" width="36" height="36" alt="Stylelint" />
+        <img src="https://stylelint.io/img/favicon.svg" width="36" height="36" alt="Stylelint" />
         </a>
         <br/>Stylelint
     </td>
@@ -176,6 +176,42 @@ A modern and self-made UI kit that combines the best of Vue 3 and React communit
         </a>
         <br/>MantineUI
     </td>
+</tr>
+  <tr>
+    <td align="center" width="110" height="90">
+        <a href='#stack'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue" />
+        </a>
+        <br/>Vue
+    </td>
+    <td align="center" width="110" height="90">
+        <a href='#stack'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="36" height="36" alt="Nuxt" />
+        </a>
+        <br/>Nuxt
+    </td>
+    <td align="center" width="110" height="90">
+        <a href='#stack'>
+        <img src="https://pinia.vuejs.org/logo.svg" width="36" height="36" alt="Pinia" />
+        </a>
+        <br/>Pinia
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+        <a href='#stack'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="36" height="36" alt="Svelte" />
+        </a>
+        <br/>Svelte
+    </td>
+    <td align="center" width="110" height="90">
+        <a href='#stack'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="36" height="36" alt="SvelteKit" />
+        </a>
+        <br/>SvelteKit
+    </td>
+  </tr>
+   <tr>
     <td align="center" width="110" height="90">
         <a href='#stack'>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
@@ -194,40 +230,6 @@ A modern and self-made UI kit that combines the best of Vue 3 and React communit
         </a>
         <br/>Vite
     </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" />
-        </a>
-        <br/>Sass
-    </td>
-</tr>
-  <tr>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue" />
-        </a>
-        <br/>Vue
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="36" height="36" alt="Nuxt" />
-        </a>
-        <br/>Nuxt
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="36" height="36" alt="Svelte" />
-        </a>
-        <br/>Svelte
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="36" height="36" alt="SvelteKit" />
-        </a>
-        <br/>SvelteKit
-    </td>
   </tr>
 </table>
 
@@ -243,15 +245,43 @@ A modern and self-made UI kit that combines the best of Vue 3 and React communit
     </td>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="36" height="36" alt="Prisma" />
+        <img src="https://tokio.rs/img/icons/tokio.svg" width="36" height="36" alt="Axum / Tokio" />
         </a>
-        <br/>Prisma
+        <br/>Axum
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+        <a href='#stack'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" />
+        </a>
+        <br/>Python
     </td>
     <td align="center" width="110" height="90">
         <a href='#stack'>
-        <img src="https://trpc.io/img/logo.svg" width="36" height="36" alt="tRPC" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="36" height="36" alt="Django" />
         </a>
-        <br/>tRPC
+        <br/>Django
+    </td>
+    <td align="center" width="110" height="90">
+        <a href='#stack'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" />
+        </a>
+        <br/>FastAPI
+    </td>
+    <td align="center" width="110" height="90">
+        <a href='#stack'>
+        <img src="https://litestar.dev/_static/logo.svg" width="36" height="36" alt="Litestar" />
+        </a>
+        <br/>Litestar
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+        <a href='#stack'>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="36" height="36" alt="Prisma" />
+        </a>
+        <br/>Prisma
     </td>
   </tr>
 </table>
