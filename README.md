@@ -21,17 +21,6 @@ I believe great software is not only about making things work — it's about mak
 
 Every project is another step toward becoming the engineer I aspire to be.
 
-### Engineering
-
-My interests:
-
-- Designing elegant systems and APIs
-- Building developer-friendly tools
-- Creating intuitive user experiences
-- Exploring performance and architecture
-- Turning complex ideas into simple solutions
-- Understanding systems deeply, not just using them
-
 ### Principles
 
 - Build for the next developer.
@@ -40,15 +29,6 @@ My interests:
 - Simplicity scales.
 - Quality is never accidental.
 - Good abstractions reveal complexity — they don't hide it.
-
-### Current Focus
-
-🧠 Designing software architectures that scale  
-⚡ Improving performance and user experience  
-🦀 Exploring Rust and native tooling  
-🎨 Building creative and interactive applications  
-🤖 Exploring better ways for humans and AI to build software together  
-
 
 ## Technologies
 
