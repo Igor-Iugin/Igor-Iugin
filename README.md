@@ -1,306 +1,65 @@
-# 👋 Hello there! I'm Igor
+<div align="center">
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Engineering+is+a+direction;Learning.+Building.+Improving.;Chasing+engineering+excellence;Learning+through+engineering"/>
 
-Frontend Developer from Russia 🧊
+</div>
 
-- :office: I'm currently working at **RTS**
-- :fire: I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
+```
+> Engineering isn't my title.  
+> It's the direction I'm walking.
+```
 
-<br>
+---
 
-[//]: # (## 📦 My Packages)
+## About
 
-[//]: # ()
+I love building software that feels simple, even when the problems behind it aren't.
 
-[//]: # (in Progress)
+I'm an engineer focused on developer experience, UI architecture, performance, and creating tools that developers genuinely enjoy using.
 
-## 🔬 My Projects
+I believe great software is not only about making things work — it's about making them understandable, maintainable, and enjoyable to build.
 
-### [Nuance UI](https://github.com/Igor-Iugin/nuance-ui)
-A modern and self-made UI kit that combines the best of Vue 3 and React community
+Every project is another step toward becoming the engineer I aspire to be.
 
-<br>
+### Engineering
 
-## 🔥 Tech stack
+My interests:
 
-> General
+- Designing elegant systems and APIs
+- Building developer-friendly tools
+- Creating intuitive user experiences
+- Exploring performance and architecture
+- Turning complex ideas into simple solutions
+- Understanding systems deeply, not just using them
 
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="javascript" />
-        </a>
-        <br/>Javascript
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
-        </a>
-        <br/>Typescript
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
-        </a>
-        <br/>HTML
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" height="36" alt="css3" />
-        </a>
-        <br/>CSS
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
-        </a>
-        <br/>Figma
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
-        </a>
-        <br/>Git
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
-        </a>
-        <br/>Yarn
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://pnpm.io/img/pnpm-no-name-with-frame.svg" width="36" height="36" alt="pnpm" />
-        </a>
-        <br/>Pnpm
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="36" height="36" alt="npm" />
-        </a>
-        <br/>Npm
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" height="36" alt="github" />
-        </a>
-        <br/>GitHub
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
-        </a>
-        <br/>Docker
-    </td>
-</tr>
-</table>
+### Principles
 
-> Testing
+- Build for the next developer.
+- Beautiful APIs matter.
+- Performance is a feature.
+- Simplicity scales.
+- Quality is never accidental.
+- Good abstractions reveal complexity — they don't hide it.
 
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="36" height="36" alt="Jest" />
-        </a>
-        <br/>Jest
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
-        </a>
-        <br/>TL
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="playwright" />
-        </a>
-        <br/>Playwright
-    </td>
-</tr>
-</table>
+### Current Focus
 
-> Code quality
+🧠 Designing software architectures that scale  
+⚡ Improving performance and user experience  
+🦀 Exploring Rust and native tooling  
+🎨 Building creative and interactive applications  
+🤖 Exploring better ways for humans and AI to build software together  
 
 
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="36" height="36" alt="eslint" />
-        </a>
-        <br/>ESLint
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://stylelint.io/img/favicon.svg" width="36" height="36" alt="Stylelint" />
-        </a>
-        <br/>Stylelint
-    </td>
-</tr>
-</table>
+## Technologies
 
-> Frontend
+<div align="center">
 
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36" alt="React" />
-        </a>
-        <br/>React
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
-        </a>
-        <br/>Next JS
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
-        </a>
-        <br/>Redux
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="36" height="36" alt="Redux" />
-        </a>
-        <br/>Zustand
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://avatars.githubusercontent.com/u/79146003?s=48&v=4" width="36" height="36" alt="Redux" />
-        </a>
-        <br/>MantineUI
-    </td>
-</tr>
-  <tr>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue" />
-        </a>
-        <br/>Vue
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="36" height="36" alt="Nuxt" />
-        </a>
-        <br/>Nuxt
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://pinia.vuejs.org/logo.svg" width="36" height="36" alt="Pinia" />
-        </a>
-        <br/>Pinia
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="36" height="36" alt="Svelte" />
-        </a>
-        <br/>Svelte
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="36" height="36" alt="SvelteKit" />
-        </a>
-        <br/>SvelteKit
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
-        </a>
-        <br/>Tailwind
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" width="36" height="36" alt="Webpack" />
-        </a>
-        <br/>Webpack
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-        </a>
-        <br/>Vite
-    </td>
-  </tr>
-</table>
+### Languages
 
-> Backend
+<img src="https://skillicons.dev/icons?i=ts,rust,python&perline=8"/>
 
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="36" height="36" alt="Rust" />
-        </a>
-        <br/>Rust
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://tokio.rs/img/icons/tokio.svg" width="36" height="36" alt="Axum / Tokio" />
-        </a>
-        <br/>Axum
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="Python" />
-        </a>
-        <br/>Python
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="36" height="36" alt="Django" />
-        </a>
-        <br/>Django
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI" />
-        </a>
-        <br/>FastAPI
-    </td>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://litestar.dev/_static/logo.svg" width="36" height="36" alt="Litestar" />
-        </a>
-        <br/>Litestar
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="36" height="36" alt="Prisma" />
-        </a>
-        <br/>Prisma
-    </td>
-  </tr>
-</table>
+### Frameworks & Tools
 
-> Other
+<img src="https://skillicons.dev/icons?i=vue,tauri,docker,git,nix&perline=8"/>
 
-<table width='100%'>
-  <tr>
-    <td align="center" height="90">
-        <a href='#stack'>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" height="36" alt="Tauri" />
-        </a>
-        <br>Tauri
-    </td>
-  </tr> 
-</table>
- 
-## ☄️ Contact
-
-- :bird: &nbsp;**[VK](https://vk.com/gigorbyte)**
-- :airplane: &nbsp;**[Telegram](https://t.me/gigorext)**
-- :comet: &nbsp;**[Github](https://github.com/Igor-Iugin)**
+</div>
